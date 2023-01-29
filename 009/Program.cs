@@ -2,7 +2,7 @@
 
 
 int i = 2;
-int N=10;
+int N = 10;
 N = Convert.ToInt32(Console.ReadLine());
 //нц пока i<=N;
 //кц
